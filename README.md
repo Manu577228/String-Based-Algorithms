@@ -1,4 +1,4 @@
-# 📚 Algorithms in Java & Python by Bharadwaj
+# 📚 Algorithms in Java & Python by Bharadwaj !
 
 Welcome to my **Algorithms Repository**! 🚀  
 This repository contains clean, well-explained implementations of popular **algorithms** in both **Java** and **Python**, designed for learning, competitive programming, and interview preparation.  
